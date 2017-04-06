@@ -1,0 +1,184 @@
+SimpleBreed,Group,Size_alpha
+Affenpinscher,Toy,S
+Afghan Hound,Hound,L
+Airedale Terrier,Terrier,M
+Akita,Working,L
+Alaskan Husky,Unknown,M
+Alaskan Malamute,Working,L
+American Bulldog,NonSporting,M
+American Eskimo,NonSporting,M
+American Foxhound,Hound,L
+American Pit Bull Terrier,PitBull,M
+American Staffordshire Terrier,Terrier,M
+Anatol Shepherd,Working,L
+Australian Cattle Dog,Herding,M
+Australian Kelpie,Working,M
+Australian Shepherd,Herding,M
+Australian Terrier,Terrier,S
+Basenji,Hound,M
+Basset Hound,Hound,M
+Beagle,Hound,S
+Bearded Collie,Herding,M
+Beauceron,Herding,L
+Bedlington Terr,Terrier,M
+Belgian Malinois,Herding,L
+Belgian Sheepdog,Herding,M
+Belgian Tervuren,Herding,M
+Bernese Mountain Dog,Working,L
+Bichon Frise,NonSporting,S
+Black,Unknown,M
+Black Mouth Cur,Herding,M
+Bloodhound,Hound,L
+Blue Lacy,Working,M
+Bluetick Hound,Hound,M
+Border Collie,Herding,M
+Border Terrier,Terrier,S
+Boston Terrier,NonSporting,S
+Boxer,Working,M
+Boykin Span,Sporting,M
+Brittany,Sporting,M
+Bruss Griffon,Toy,S
+Bull Terrier,Terrier,M
+Bull Terrier Miniature,Terrier,S
+Bulldog,NonSporting,M
+Bullmastiff,Working,L
+Cairn Terrier,Terrier,S
+Canaan Dog,Herding,M
+Cane Corso,Working,L
+Cardigan Welsh Corgi,Herding,M
+Carolina Dog,Unknown,M
+Catahoula,Herding,M
+Cavalier Span,Toy,S
+Chesa Bay Retr,Sporting,L
+Chihuahua Longhair,Toy,S
+Chihuahua Shorthair,Toy,S
+Chinese Crested,Toy,S
+Chinese Sharpei,NonSporting,M
+Chow Chow,NonSporting,M
+Cocker Spaniel,Sporting,M
+Collie Rough,Herding,L
+Collie Smooth,Herding,L
+Dachshund,Hound,S
+Dachshund Longhair,Hound,S
+Dachshund Wirehair,Hound,S
+Dalmatian,NonSporting,L
+Doberman Pinsch,Working,M
+Dogo Argentino,Unknown,L
+Dogue De Bordeaux,Working,L
+Dutch Shepherd,Herding,L
+English Bulldog,NonSporting,M
+English Cocker Spaniel,Sporting,M
+English Coonhound,Hound,L
+English Foxhound,Hound,L
+English Pointer,Sporting,L
+English Setter,Sporting,L
+English Shepherd,Herding,M
+English Springer Spaniel,Sporting,M
+Entlebucher,Herding,M
+Feist,Unknown,S
+Field Spaniel,Sporting,M
+Finnish Spitz,NonSporting,M
+Flat Coat Retriever,Sporting,M
+French Bulldog,NonSporting,S
+German Pinscher,Working,M
+German Shepherd,Herding,L
+German Shorthair Pointer,Working,L
+German Wirehaired Pointer,Sporting,M
+Glen Of Imaal,Terrier,M
+Golden Retriever,Sporting,L
+Great Dane,Working,G
+Great Pyrenees,Working,G
+Greater Swiss Mountain Dog,Working,L
+Greyhound,Hound,G
+Harrier,Hound,M
+Havanese,Toy,S
+Hovawart,Working,L
+Ibizan Hound,Hound,L
+Irish Setter,Sporting,L
+Irish Terrier,Terrier,M
+Irish Wolfhound,Hound,G
+Italian Greyhound,Toy,S
+Jack Russell Terrier,Terrier,S
+Japanese Chin,Toy,S
+Jindo Nova Scotia Duck Tolling Retriever,Sporting,M
+Keeshond,NonSporting,M
+Kuvasz,Working,G
+Labrador Retriever,Sporting,M
+Landseer,Unknown,L
+Leonberger,Working,G
+Lhasa Apso,NonSporting,S
+Lowchen,NonSporting,S
+Maltese,Toy,S
+Manchester Terrier,Toy,S
+Mastiff,Working,L
+Mexican Hairless,NonSporting,M
+Miniature Pinscher,Toy,S
+Miniature Poodle,NonSporting,M
+Miniature Schnauzer,Terrier,S
+Neapolitan Mastiff,Working,L
+Newfoundland,Working,L
+Norfolk Terrier,Terrier,S
+Norwegian Elkhound,Hound,M
+Norwich Terrier,Terrier,S
+Old English Bulldog,NonSporting,M
+Old English Sheepdog,Herding,L
+Otterhound,Hound,L
+Papillon,Toy,S
+Parson Russell Terrier,Terrier,M
+Patterdale Terr,Terrier,S
+Pbgv,Hound,S
+Pekingese,Toy,S
+Pembroke Welsh Corgi,Herding,M
+Pharaoh Hound,Hound,M
+Picardy Sheepdog,Herding,M
+Pit Bull,PitBull,M
+Plott Hound,Hound,L
+Podengo Pequeno,Hound,S
+Pointer,Sporting,M
+Pomeranian,Toy,S
+Port Water Dog,Working,M
+Presa Canario,Unknown,L
+Pug,Toy,S
+Queensland Heeler,Herding,M
+Rat Terrier,Terrier,S
+Redbone Hound,Hound,M
+Rhod Ridgeback,Hound,M
+Rottweiler,Working,M
+Saluki,Hound,M
+Samoyed,Working,M
+Schipperke,NonSporting,S
+Schnauzer Giant,Working,L
+Scottish Terrier,Terrier,S
+Sealyham Terr,Terrier,S
+Shetland Sheepdog,Herding,M
+Shiba Inu,NonSporting,M
+Shih Tzu,Toy,S
+Siberian Husky,Working,M
+Silky Terrier,Toy,S
+Skye Terrier,Terrier,M
+Smooth Fox Terrier,Terrier,M
+Soft Coated Wheaten Terrier,Terrier,M
+Spanish Mastiff,Unknown,L
+Spinone Italiano,Sporting,M
+St. Bernard Rough Coat,Working,L
+St. Bernard Smooth Coat,Working,L
+Staffordshire,Terrier,M
+Standard Poodle,NonSporting,M
+Standard Schnauzer,Working,M
+Swedish Vallhund,Herding,M
+Swiss Hound,Hound,M
+Tibetan Spaniel,NonSporting,S
+Tibetan Terrier,NonSporting,M
+Toy Fox Terrier,Toy,S
+Toy Poodle,Toy,S
+Treeing Cur,Working,M
+Treeing Tennesse Brindle,Hound,S
+Treeing Walker Coonhound,Hound,M
+Vizsla,Sporting,M
+Weimaraner,Sporting,M
+Welsh Springer Spaniel,Sporting,M
+West Highland,Terrier,S
+Whippet,Hound,M
+Wire Hair Fox Terrier,Terrier,M
+Wirehaired Pointing Griffon,Sporting,M
+Yorkshire Terrier,Toy,S
